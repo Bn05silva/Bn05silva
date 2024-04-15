@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou focado na minha faculdade de **Engenharia de software.**
 
-- 🌱 Atualmente estou aprendendo **Html, Css e python.**
+- 🌱 Atualmente estou aprendendo **Html, Css.**
 
 - 👯 Também estou aprendendo python **Algoritimos.**
 
